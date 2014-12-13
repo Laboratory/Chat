@@ -6,4 +6,6 @@
 meteor-platform
 laboratory:meteor-custom-audit
 laboratory:mongo-collection
+meteorhacks:aggregate
+mizzao:bootstrap-3
 
