@@ -1,3 +1,5 @@
+accounts-base@1.1.3
+accounts-oauth@1.1.3
 amplify@1.0.0
 application-configuration@1.0.4
 autoupdate@1.1.4
@@ -26,6 +28,7 @@ laboratory:mongo-collection@1.0.1
 launch-screen@1.0.1
 less@1.0.12
 livedata@1.0.12
+localstorage@1.0.2
 logging@1.0.6
 meteor@1.1.4
 meteor-platform@1.2.1
@@ -38,6 +41,9 @@ mizzao:bootstrap-3@3.3.1_1
 mobile-status-bar@1.0.2
 mongo@1.0.10
 mongo-livedata@1.0.7
+mrt:accounts-vk@0.2.0
+oauth@1.1.3
+oauth2@1.1.2
 observe-sequence@1.0.4
 ordered-dict@1.0.2
 practicalmeteor:chai@1.9.2_3
@@ -48,6 +54,7 @@ reactive-var@1.0.4
 reload@1.1.2
 retry@1.0.2
 routepolicy@1.0.3
+service-configuration@1.0.3
 session@1.0.5
 spacebars@1.0.4
 spacebars-compiler@1.0.4
