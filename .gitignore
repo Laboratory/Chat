@@ -1,4 +1,3 @@
 node_modules
-public/libs
-public/lib
+public/client-libs
 packages/tests-proxy
