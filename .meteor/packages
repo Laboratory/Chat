@@ -11,3 +11,5 @@ mizzao:bootstrap-3
 mike:mocha
 coffeescript
 mrt:accounts-vk
+less
+williamledoux:static-server
